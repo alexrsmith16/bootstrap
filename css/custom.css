@@ -15,3 +15,7 @@
 .carousel div.carousel-item {
     max-height: 600px;
 }
+
+.jumbocontainer {
+	background-color: #E9ECEF;
+}
